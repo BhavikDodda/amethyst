@@ -1,6 +1,6 @@
 {
-  "name": "🌱 My Digital Garden",
-  "short_name": "🌱 My Digital Garden",
+  "name": "🌱 Digital Garden",
+  "short_name": "🌱 Digital Garden",
   "start_url": "/amethyst/",
   "scope": "/amethyst/",
   "display": "standalone",
