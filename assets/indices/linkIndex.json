@@ -19,6 +19,16 @@
         },
         {
           "source": "/",
+          "target": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+          "text": "Stochastic Differential Equations"
+        },
+        {
+          "source": "/",
+          "target": "/Math/ODE/ODE",
+          "text": "Ordinary Differential Equations"
+        },
+        {
+          "source": "/",
           "target": "/Physics/Classical-Mechanics/Classical-Mechanics",
           "text": "Classical Mechanics"
         },
@@ -1263,6 +1273,135 @@
           "text": "Math/Math1/Trig and hyperbolic functions"
         }
       ],
+      "/Math/ODE/": [
+        {
+          "source": "/Math/ODE/",
+          "target": "/Math/ODE/ODE",
+          "text": "ToC"
+        }
+      ],
+      "/Math/ODE/Boundary-Value-Problems": [
+        {
+          "source": "/Math/ODE/Boundary-Value-Problems",
+          "target": "/",
+          "text": "Strum Liouville Problems SLP"
+        },
+        {
+          "source": "/Math/ODE/Boundary-Value-Problems",
+          "target": "/",
+          "text": "Strum Liouville Problems SLP"
+        }
+      ],
+      "/Math/ODE/Convergence-of-functions": [
+        {
+          "source": "/Math/ODE/Convergence-of-functions",
+          "target": "/Uniform-Convergence",
+          "text": "Uniform Convergence"
+        },
+        {
+          "source": "/Math/ODE/Convergence-of-functions",
+          "target": "/Uniform-Convergence",
+          "text": "Uniform Convergence#Cauchy Criterion"
+        }
+      ],
+      "/Math/ODE/Existence-and-Uniqueness-Theorem": [
+        {
+          "source": "/Math/ODE/Existence-and-Uniqueness-Theorem",
+          "target": "/Math/ODE/DE-in-two-var",
+          "text": "DE in two var"
+        },
+        {
+          "source": "/Math/ODE/Existence-and-Uniqueness-Theorem",
+          "target": "/Math/ODE/Lipschitz-condition",
+          "text": "Lipschitz condition"
+        },
+        {
+          "source": "/Math/ODE/Existence-and-Uniqueness-Theorem",
+          "target": "/ODE-Methods",
+          "text": "ODE Methods#Picard's Method"
+        }
+      ],
+      "/Math/ODE/Lipschitz-condition": [
+        {
+          "source": "/Math/ODE/Lipschitz-condition",
+          "target": "/Math/ODE/topology-stuff",
+          "text": "Domain"
+        },
+        {
+          "source": "/Math/ODE/Lipschitz-condition",
+          "target": "/Mean-Value-Theorems",
+          "text": "Mean Value Theorems#First Mean Value Theorem"
+        }
+      ],
+      "/Math/ODE/Non-Linear-Theory": [
+        {
+          "source": "/Math/ODE/Non-Linear-Theory",
+          "target": "/Math/ODE/system-of-linear-odes",
+          "text": "system of linear odes"
+        },
+        {
+          "source": "/Math/ODE/Non-Linear-Theory",
+          "target": "/Math/ODE/system-of-linear-odes",
+          "text": "imaginary"
+        }
+      ],
+      "/Math/ODE/ODE": [
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/Convergence-of-functions",
+          "text": "Convergence of functions"
+        },
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/topology-stuff",
+          "text": "topology stuff"
+        },
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/Lipschitz-condition",
+          "text": "Lipschitz condition"
+        },
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/DE-in-two-var",
+          "text": "DE in two var"
+        },
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/Existence-and-Uniqueness-Theorem",
+          "text": "Existence and Uniqueness Theorem"
+        },
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/Gronwalls-Integral-Inequality",
+          "text": "Gronwalls Integral Inequality"
+        },
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/system-of-linear-odes",
+          "text": "system of linear odes"
+        },
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/Non-Linear-Theory",
+          "text": "Non Linear Theory"
+        },
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/Boundary-Value-Problems",
+          "text": "Boundary Value Problems"
+        },
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/Greens-Function",
+          "text": "Greens Function"
+        },
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/Non-Homogeneous-Linear-Systems",
+          "text": "Non Homogeneous Linear Systems"
+        }
+      ],
       "/Math/Stochastic-Differential-Equations/": [
         {
           "source": "/Math/Stochastic-Differential-Equations/",
@@ -1287,18 +1426,6 @@
           "source": "/Math/Stochastic-Differential-Equations/Mathematical-Preliminaries",
           "target": "/Random-Variable",
           "text": "Random Variable"
-        }
-      ],
-      "/Math/Stochastic-Differential-Equations/Stochastic-Analogs": [
-        {
-          "source": "/Math/Stochastic-Differential-Equations/Stochastic-Analogs",
-          "target": "/",
-          "text": "#Risky investment"
-        },
-        {
-          "source": "/Math/Stochastic-Differential-Equations/Stochastic-Analogs",
-          "target": "/",
-          "text": "#safe investment"
         }
       ],
       "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations": [
@@ -1653,14 +1780,14 @@
           "text": "#Stokes Theorem"
         },
         {
-          "source": "/Math/Stochastic-Differential-Equations/Stochastic-Analogs",
+          "source": "/Math/ODE/Boundary-Value-Problems",
           "target": "/",
-          "text": "#Risky investment"
+          "text": "Strum Liouville Problems SLP"
         },
         {
-          "source": "/Math/Stochastic-Differential-Equations/Stochastic-Analogs",
+          "source": "/Math/ODE/Boundary-Value-Problems",
           "target": "/",
-          "text": "#safe investment"
+          "text": "Strum Liouville Problems SLP"
         },
         {
           "source": "/Physics/Classical-Mechanics/1.-Lagrangian-Dynamics/1.-Degrees-of-Freedom-Constraints",
@@ -2910,6 +3037,120 @@
           "text": "Math/Math1/nth derivative"
         }
       ],
+      "/Math/ODE/Boundary-Value-Problems": [
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/Boundary-Value-Problems",
+          "text": "Boundary Value Problems"
+        }
+      ],
+      "/Math/ODE/Convergence-of-functions": [
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/Convergence-of-functions",
+          "text": "Convergence of functions"
+        }
+      ],
+      "/Math/ODE/DE-in-two-var": [
+        {
+          "source": "/Math/ODE/Existence-and-Uniqueness-Theorem",
+          "target": "/Math/ODE/DE-in-two-var",
+          "text": "DE in two var"
+        },
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/DE-in-two-var",
+          "text": "DE in two var"
+        }
+      ],
+      "/Math/ODE/Existence-and-Uniqueness-Theorem": [
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/Existence-and-Uniqueness-Theorem",
+          "text": "Existence and Uniqueness Theorem"
+        }
+      ],
+      "/Math/ODE/Greens-Function": [
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/Greens-Function",
+          "text": "Greens Function"
+        }
+      ],
+      "/Math/ODE/Gronwalls-Integral-Inequality": [
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/Gronwalls-Integral-Inequality",
+          "text": "Gronwalls Integral Inequality"
+        }
+      ],
+      "/Math/ODE/Lipschitz-condition": [
+        {
+          "source": "/Math/ODE/Existence-and-Uniqueness-Theorem",
+          "target": "/Math/ODE/Lipschitz-condition",
+          "text": "Lipschitz condition"
+        },
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/Lipschitz-condition",
+          "text": "Lipschitz condition"
+        }
+      ],
+      "/Math/ODE/Non-Homogeneous-Linear-Systems": [
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/Non-Homogeneous-Linear-Systems",
+          "text": "Non Homogeneous Linear Systems"
+        }
+      ],
+      "/Math/ODE/Non-Linear-Theory": [
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/Non-Linear-Theory",
+          "text": "Non Linear Theory"
+        }
+      ],
+      "/Math/ODE/ODE": [
+        {
+          "source": "/Math/ODE/",
+          "target": "/Math/ODE/ODE",
+          "text": "ToC"
+        },
+        {
+          "source": "/",
+          "target": "/Math/ODE/ODE",
+          "text": "Ordinary Differential Equations"
+        }
+      ],
+      "/Math/ODE/system-of-linear-odes": [
+        {
+          "source": "/Math/ODE/Non-Linear-Theory",
+          "target": "/Math/ODE/system-of-linear-odes",
+          "text": "system of linear odes"
+        },
+        {
+          "source": "/Math/ODE/Non-Linear-Theory",
+          "target": "/Math/ODE/system-of-linear-odes",
+          "text": "imaginary"
+        },
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/system-of-linear-odes",
+          "text": "system of linear odes"
+        }
+      ],
+      "/Math/ODE/topology-stuff": [
+        {
+          "source": "/Math/ODE/Lipschitz-condition",
+          "target": "/Math/ODE/topology-stuff",
+          "text": "Domain"
+        },
+        {
+          "source": "/Math/ODE/ODE",
+          "target": "/Math/ODE/topology-stuff",
+          "text": "topology stuff"
+        }
+      ],
       "/Math/Stochastic-Differential-Equations/Basics": [
         {
           "source": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
@@ -2936,6 +3177,11 @@
           "source": "/Math/Stochastic-Differential-Equations/",
           "target": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
           "text": "ToC"
+        },
+        {
+          "source": "/",
+          "target": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+          "text": "Stochastic Differential Equations"
         }
       ],
       "/Math/Stochastic-Differential-Equations/Stochastic-processes": [
@@ -2943,6 +3189,13 @@
           "source": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
           "target": "/Math/Stochastic-Differential-Equations/Stochastic-processes",
           "text": "Stochastic processes"
+        }
+      ],
+      "/Mean-Value-Theorems": [
+        {
+          "source": "/Math/ODE/Lipschitz-condition",
+          "target": "/Mean-Value-Theorems",
+          "text": "Mean Value Theorems#First Mean Value Theorem"
         }
       ],
       "/Necessary-and-Sufficient-Condition": [
@@ -2953,6 +3206,11 @@
         }
       ],
       "/ODE-Methods": [
+        {
+          "source": "/Math/ODE/Existence-and-Uniqueness-Theorem",
+          "target": "/ODE-Methods",
+          "text": "ODE Methods#Picard's Method"
+        },
         {
           "source": "/Math/Stochastic-Differential-Equations/Basics",
           "target": "/ODE-Methods",
@@ -3135,6 +3393,18 @@
           "source": "/Math/Stochastic-Differential-Equations/Mathematical-Preliminaries",
           "target": "/Random-Variable",
           "text": "Random Variable"
+        }
+      ],
+      "/Uniform-Convergence": [
+        {
+          "source": "/Math/ODE/Convergence-of-functions",
+          "target": "/Uniform-Convergence",
+          "text": "Uniform Convergence"
+        },
+        {
+          "source": "/Math/ODE/Convergence-of-functions",
+          "target": "/Uniform-Convergence",
+          "text": "Uniform Convergence#Cauchy Criterion"
         }
       ],
       "/Writeup/Cantors-Theorem": [
@@ -4298,6 +4568,121 @@
       "text": "ToC"
     },
     {
+      "source": "/Math/ODE/Boundary-Value-Problems",
+      "target": "/",
+      "text": "Strum Liouville Problems SLP"
+    },
+    {
+      "source": "/Math/ODE/Boundary-Value-Problems",
+      "target": "/",
+      "text": "Strum Liouville Problems SLP"
+    },
+    {
+      "source": "/Math/ODE/Convergence-of-functions",
+      "target": "/Uniform-Convergence",
+      "text": "Uniform Convergence"
+    },
+    {
+      "source": "/Math/ODE/Convergence-of-functions",
+      "target": "/Uniform-Convergence",
+      "text": "Uniform Convergence#Cauchy Criterion"
+    },
+    {
+      "source": "/Math/ODE/Existence-and-Uniqueness-Theorem",
+      "target": "/Math/ODE/DE-in-two-var",
+      "text": "DE in two var"
+    },
+    {
+      "source": "/Math/ODE/Existence-and-Uniqueness-Theorem",
+      "target": "/Math/ODE/Lipschitz-condition",
+      "text": "Lipschitz condition"
+    },
+    {
+      "source": "/Math/ODE/Existence-and-Uniqueness-Theorem",
+      "target": "/ODE-Methods",
+      "text": "ODE Methods#Picard's Method"
+    },
+    {
+      "source": "/Math/ODE/Lipschitz-condition",
+      "target": "/Math/ODE/topology-stuff",
+      "text": "Domain"
+    },
+    {
+      "source": "/Math/ODE/Lipschitz-condition",
+      "target": "/Mean-Value-Theorems",
+      "text": "Mean Value Theorems#First Mean Value Theorem"
+    },
+    {
+      "source": "/Math/ODE/Non-Linear-Theory",
+      "target": "/Math/ODE/system-of-linear-odes",
+      "text": "system of linear odes"
+    },
+    {
+      "source": "/Math/ODE/Non-Linear-Theory",
+      "target": "/Math/ODE/system-of-linear-odes",
+      "text": "imaginary"
+    },
+    {
+      "source": "/Math/ODE/ODE",
+      "target": "/Math/ODE/Convergence-of-functions",
+      "text": "Convergence of functions"
+    },
+    {
+      "source": "/Math/ODE/ODE",
+      "target": "/Math/ODE/topology-stuff",
+      "text": "topology stuff"
+    },
+    {
+      "source": "/Math/ODE/ODE",
+      "target": "/Math/ODE/Lipschitz-condition",
+      "text": "Lipschitz condition"
+    },
+    {
+      "source": "/Math/ODE/ODE",
+      "target": "/Math/ODE/DE-in-two-var",
+      "text": "DE in two var"
+    },
+    {
+      "source": "/Math/ODE/ODE",
+      "target": "/Math/ODE/Existence-and-Uniqueness-Theorem",
+      "text": "Existence and Uniqueness Theorem"
+    },
+    {
+      "source": "/Math/ODE/ODE",
+      "target": "/Math/ODE/Gronwalls-Integral-Inequality",
+      "text": "Gronwalls Integral Inequality"
+    },
+    {
+      "source": "/Math/ODE/ODE",
+      "target": "/Math/ODE/system-of-linear-odes",
+      "text": "system of linear odes"
+    },
+    {
+      "source": "/Math/ODE/ODE",
+      "target": "/Math/ODE/Non-Linear-Theory",
+      "text": "Non Linear Theory"
+    },
+    {
+      "source": "/Math/ODE/ODE",
+      "target": "/Math/ODE/Boundary-Value-Problems",
+      "text": "Boundary Value Problems"
+    },
+    {
+      "source": "/Math/ODE/ODE",
+      "target": "/Math/ODE/Greens-Function",
+      "text": "Greens Function"
+    },
+    {
+      "source": "/Math/ODE/ODE",
+      "target": "/Math/ODE/Non-Homogeneous-Linear-Systems",
+      "text": "Non Homogeneous Linear Systems"
+    },
+    {
+      "source": "/Math/ODE/",
+      "target": "/Math/ODE/ODE",
+      "text": "ToC"
+    },
+    {
       "source": "/Math/Stochastic-Differential-Equations/Basics",
       "target": "/ODE-Methods",
       "text": "ODE Methods#Picard's Method"
@@ -4311,16 +4696,6 @@
       "source": "/Math/Stochastic-Differential-Equations/Mathematical-Preliminaries",
       "target": "/Random-Variable",
       "text": "Random Variable"
-    },
-    {
-      "source": "/Math/Stochastic-Differential-Equations/Stochastic-Analogs",
-      "target": "/",
-      "text": "#Risky investment"
-    },
-    {
-      "source": "/Math/Stochastic-Differential-Equations/Stochastic-Analogs",
-      "target": "/",
-      "text": "#safe investment"
     },
     {
       "source": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
@@ -4581,6 +4956,16 @@
       "source": "/",
       "target": "/Math/Math-2/Math-2",
       "text": "Math 2"
+    },
+    {
+      "source": "/",
+      "target": "/Math/Stochastic-Differential-Equations/Stochastic-Differential-Equations",
+      "text": "Stochastic Differential Equations"
+    },
+    {
+      "source": "/",
+      "target": "/Math/ODE/ODE",
+      "text": "Ordinary Differential Equations"
     },
     {
       "source": "/",
